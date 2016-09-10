@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style.css" />
+<head>
+<div id=style>
+<title>My Page</title>
+</head>
+  
+
+
+<body>
+<h1>PAGE</h1>
+
+  <p>Green </p>
+  <p>white </p>
+  <p>yellow</p>
+  <p>white </p>
+
+
+
+</body>
+</html>
